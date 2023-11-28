@@ -21,7 +21,7 @@ Minha jornada no mundo da programação está apenas começando, e estou animado
 
 ## 👨‍💻 Conecte-se comigo
 
- <a href="linkedin.com/in/lukas-barbosa-oliveira-44747a263/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>  <a href="https://www.instagram.com/_.lb99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>  <a href="https://www.instagram.com/_.lb99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
  
  
 
