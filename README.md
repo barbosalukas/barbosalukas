@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋 <br>
 Eu sou Lukas Barbosa Oliveira, desenvolvedor backend em formação com foco em Node.js, construção de APIs e arquitetura de aplicações escaláveis.
 
 Atualmente, estou aprofundando meus conhecimentos na criação de sistemas backend eficientes, aplicando boas práticas de desenvolvimento, organização de código e resolução de problemas reais.
