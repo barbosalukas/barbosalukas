@@ -1,29 +1,27 @@
-### Hi there 👋
+Hi there 👋
+Eu sou Lukas Barbosa Oliveira, desenvolvedor backend em formação com foco em Node.js, construção de APIs e arquitetura de aplicações escaláveis.
 
-Eu sou Lukas Barbosa Oliveira, um entusiasta da programação que está explorando o vasto universo do desenvolvimento web. Atualmente, meu foco principal é aprender e aprimorar minhas habilidades em HTML e CSS para criar interfaces web incríveis e responsivas.
+Atualmente, estou aprofundando meus conhecimentos na criação de sistemas backend eficientes, aplicando boas práticas de desenvolvimento, organização de código e resolução de problemas reais.
 
-## 💻 O que estou estudando
+💻 Stack e foco atual
+🟢 Node.js: Desenvolvimento de aplicações server-side com JavaScript
+⚙️ APIs REST: Estruturação de rotas, manipulação de requisições e regras de negócio
+🗄️ Banco de dados: Modelagem e persistência de dados
+🔍 Boas práticas: Código limpo, organização e escalabilidade
 
-- 🌐 **HTML**: Criando a estrutura fundamental para páginas web, dando vida ao conteúdo.
-- 🎨 **CSS**: Estilizando e dando personalidade às minhas criações, garantindo uma experiência visual atraente.
-- 🚀 **JavaScript**: Estou dando meus primeiros passos nessa linguagem poderosa, explorando seu potencial para tornar minhas páginas mais dinâmicas e interativas.
+🚀 O que já estou fazendo
+✔️ Desenvolvimento de APIs do zero (rotas, middlewares e lógica de negócio)
+✔️ Manipulação de dados e integração com banco de dados
+✔️ Tratamento de erros e estruturação de projetos backend
+✔️ Versionamento de código com Git e GitHub
 
-## 🌱 A jornada
+🌱 Mentalidade
+Tenho uma abordagem prática: aprender construindo. Estou constantemente desenvolvendo projetos para consolidar conhecimento e evoluir como desenvolvedor backend.
 
-Minha jornada no mundo da programação está apenas começando, e estou animado para aprender e crescer. Se você compartilha desse entusiasmo ou tem dicas valiosas para um aprendiz como eu, sinta-se à vontade para entrar em contato e compartilhar conhecimento.
+🚀 Próximos passos
+Aprofundar em arquitetura de software e padrões de projeto
+Aprender frameworks como NestJS
+Trabalhar com bancos de dados em ambientes reais
+Conquistar minha primeira oportunidade como desenvolvedor backend
 
-
-## 🚀 Objetivos futuros
-
-- Explorar frameworks e bibliotecas front-end para aprimorar minhas habilidades.
-- Colaborar em projetos open source para aprender com a comunidade.
-- Expandir meu conhecimento em desenvolvimento web full-stack.
-
-## 👨‍💻 Conecte-se comigo
-
- <a href="https://www.linkedin.com/in/lukas-barbosa-oliveira-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>  <a href="https://www.instagram.com/_.lb99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
- 
- 
-
-
-![Lukas stats](https://github-readme-stats.vercel.app/api?username=barbosalukas&show_icons=true&theme=transparent)
+📌 Aberto a oportunidades como Desenvolvedor Backend Júnior
